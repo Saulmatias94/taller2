@@ -1,7 +1,7 @@
 <template>
   <div>
       <footer class="">
-          <div class="center bg-success">
+          <div class="center bg-info">
               <p class="m-none">
                   Saúl Cifuentes.
               </p>
